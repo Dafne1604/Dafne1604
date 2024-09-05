@@ -11,6 +11,11 @@ INTRODUCCIÓN
 
 -Posteriora ello, se pasó a conocer el entorno del simulador mismo:
 
+![image](https://github.com/user-attachments/assets/39664281-40f1-4a6d-aa56-c41dc0559545)
+
+-
+
+
 
 <!---te
 Dafne1604/Dafne1604 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
